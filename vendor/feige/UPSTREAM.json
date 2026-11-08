@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "file": "ws_reader.py",
+      "source": "https://raw.githubusercontent.com/scszcoder/eCan.ai/bb8db95c6b7f8fbde3fa55052a733ef27e438c77/agent/ec_skills/browser_use_extension/hooks/external/feige_chat/ws_reader.py",
+      "sha256": "17ED38E8FC1FF2607C695A3C4FB3225E1C6BB2FDD93C9100C8C27D15AA17EAB1"
+    },
+    {
+      "file": "ws_protocol_watch.py",
+      "source": "https://raw.githubusercontent.com/scszcoder/eCan.ai/bb8db95c6b7f8fbde3fa55052a733ef27e438c77/agent/ec_skills/browser_use_extension/hooks/external/feige_chat/ws_protocol_watch.py",
+      "sha256": "55A2121C887E2675873D035C5DF96EE3A715BA9BE525206FDBE49DBCF85FD735"
+    },
+    {
+      "file": "ws_sender.py",
+      "source": "https://raw.githubusercontent.com/scszcoder/eCan.ai/bb8db95c6b7f8fbde3fa55052a733ef27e438c77/agent/ec_skills/browser_use_extension/hooks/external/feige_chat/ws_sender.py",
+      "sha256": "29849EFEB65F6A7C78D5DBA02B4AF3A83CE5F62A96B8BCCD0F6112EFE6125454"
+    },
+    {
+      "file": "sidebar_preview_js.py",
+      "source": "https://raw.githubusercontent.com/scszcoder/eCan.ai/bb8db95c6b7f8fbde3fa55052a733ef27e438c77/agent/ec_skills/browser_use_extension/hooks/external/feige_chat/sidebar_preview_js.py",
+      "sha256": "148E41F7E836E32037D2ED56F0FA0425C85DADD0D78E0F976190CF9153AEBB22"
+    },
+    {
+      "file": "site_tools.py",
+      "source": "https://raw.githubusercontent.com/scszcoder/eCan.ai/bb8db95c6b7f8fbde3fa55052a733ef27e438c77/agent/ec_skills/browser_use_extension/hooks/external/feige_chat/site_tools.py",
+      "sha256": "262C2993F86DFD4EC54F21ED1D1A27C147C99CC678FFC5ABDF9BBC72713946C3"
+    }
+  ],
+  "commit": "bb8db95c6b7f8fbde3fa55052a733ef27e438c77"
+}
